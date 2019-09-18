@@ -1,2 +1,0 @@
-# PLA
-Puri Law Agency

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Puri Law Firm",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/pla",
+    "feed_url": "https://shameerpuri.github.io/pla/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shubham"
+    },
+    "items": [
+        {
+            "id": "https://shameerpuri.github.io/pla/pla.html",
+            "url": "https://shameerpuri.github.io/pla/pla.html",
+            "title": "PLA",
+            "summary": "PLA",
+            "content_html": "PLA",
+            "author": {
+                "name": "Shubham"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-18T21:29:30+05:30",
+            "date_modified": "2019-09-18T21:29:30+05:30"
+        }
+    ]
+}

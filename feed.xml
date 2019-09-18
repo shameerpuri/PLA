@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Puri Law Firm</title>
+    <link href="https://shameerpuri.github.io/pla/feed.xml" rel="self" />
+    <link href="https://shameerpuri.github.io/pla" />
+    <updated>2019-09-18T21:29:35+05:30</updated>
+    <author>
+        <name>Shubham</name>
+    </author>
+    <id>https://shameerpuri.github.io/pla</id>
+
+    <entry>
+        <title>PLA</title>
+        <author>
+            <name>Shubham</name>
+        </author>
+        <link href="https://shameerpuri.github.io/pla/pla.html"/>
+        <id>https://shameerpuri.github.io/pla/pla.html</id>
+
+        <updated>2019-09-18T21:29:30+05:30</updated>
+            <summary>
+                <![CDATA[
+                    PLA
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                PLA
+            ]]>
+        </content>
+    </entry>
+</feed>
